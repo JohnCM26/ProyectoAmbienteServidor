@@ -44,7 +44,23 @@ Desarrollar una plataforma web que permita a los usuarios registrarse, iniciar s
 Proyecto-Ambiente-Servidor-Web/
 │
 ├── registro-login/
+    └──ecoread_login/
+    │
+    ├── css/
+    │   └── auth.css
+    │
+    ├── img/
+    │   └── logo.svg
+    │
+    ├── js/
+    │   ├── auth.js
+    │   └── perfil.js
+    │
+    ├── login.html
+    ├── perfil.html
+    └── registro.html
 ├── publicaciones/
+    └──
 ├── catalogo/
     └── Catalogo_Ecoread/
         ├── catalogo.html
