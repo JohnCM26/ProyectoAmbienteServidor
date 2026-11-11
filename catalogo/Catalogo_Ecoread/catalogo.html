@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>EcoRead - Catálogo y Búsqueda (Parte Jenner Daniel Villarreal)</title>
+</head>
+<body>
+    <!-- Parte realizada por: Jenner Daniel Villarreal Cascante -->
+    <h1>Catálogo de Libros y Materiales - EcoRead</h1>
+    <h2>Módulo: Catálogo y Búsqueda (Jenner Daniel Villarreal Cascante)</h2>
+    
+    <form action="buscador.php" method="GET">
+        <label for="titulo">Buscar por Título:</label><br>
+        <input type="text" id="titulo" name="titulo" placeholder="Ej. Programación, Matemática..."><br><br>
+
+        <label for="categoria">Categoría:</label><br>
+        <select id="categoria" name="categoria">
+            <option value="">Todas las categorías</option>
+            <option value="Informatica">Informática</option>
+            <option value="Matematicas">Matemáticas</option>
+            <option value="Literatura">Literatura</option>
+            <option value="Ciencias">Ciencias</option>
+        </select><br><br>
+
+        <label for="condicion">Condición:</label><br>
+        <select id="condicion" name="condicion">
+            <option value="">Cualquier condición</option>
+            <option value="Nuevo">Nuevo</option>
+            <option value="Excelente">Excelente</option>
+            <option value="Usado">Usado</option>
+        </select><br><br>
+
+        <input type="submit" value="Buscar / Filtrar">
+    </form>
+</body>
+</html>
