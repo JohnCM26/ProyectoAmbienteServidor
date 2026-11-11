@@ -51,11 +51,14 @@ Proyecto-Ambiente-Servidor-Web/
 └── README.md
 ```
 
-## Tecnologías
+## Tecnologías utilizadas
 
-- HTML5
-- Git y GitHub
-- Otras tecnologías por definir.
+- **HTML5:** estructura de las páginas web.
+- **CSS3:** diseño y estilos visuales.
+- **JavaScript:** interactividad y funcionalidades del lado del cliente.
+- **PHP:** procesamiento y lógica del lado del servidor.
+- **Git:** control de versiones del proyecto.
+- **GitHub:** almacenamiento del código y colaboración entre integrantes.
 
 ## Control de versiones
 
