@@ -46,6 +46,9 @@ Proyecto-Ambiente-Servidor-Web/
 ├── registro-login/
 ├── publicaciones/
 ├── catalogo/
+    └── Catalogo_Ecoread/
+        ├── catalogo.html
+        └── buscador.php
 ├── base-datos/
 ├── index.html
 └── README.md
