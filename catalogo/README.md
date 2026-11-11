@@ -11,5 +11,5 @@ Responsable: Jenner Villarreal.
 
 ## Archivos previstos
 
-- catalogo.html
-- resultados.html
+1. catalogo.html - Interfaz del catálogo con buscador y filtros por categoría y condición.
+2. buscador.php - Script de procesamiento en PHP que realiza el filtrado de datos y visualización de resultados.
